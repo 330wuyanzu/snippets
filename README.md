@@ -4,7 +4,7 @@
 
 语言:
  - Python
- - Elixir
+ - [Elixir](https://github.com/330wuyanzu/snippets/blob/master/elixir.exs)
  - Erlang
  - C#
  - F#
